@@ -5,6 +5,8 @@ public class persona {
 	String nombre;
 	String apellidos;
 	String telefono;
+	String correo;
+	
 	public long getId() {
 		return id;
 	}
